@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: sulei
+Build-Jdk: 11.0.11
+Implementation-Title: swagger-spring
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: io.swagger
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/swagger-spring
+ /
+Created-By: Maven Integration for Eclipse
+
